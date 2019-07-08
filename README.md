@@ -1,2 +1,2 @@
 # Face_recognize_Pytorch
->用pytorch复现了tensorflow的人脸识别
+>用pytorch复现了之前用tensorflow实现的人脸识别
